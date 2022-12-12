@@ -14,6 +14,5 @@ Data Science Project on Birth Rate Analysis using Python
 - Python
 - Jupyter
 - Pandas
-- Matplotlib
 - Numpy
 - Seaborn
